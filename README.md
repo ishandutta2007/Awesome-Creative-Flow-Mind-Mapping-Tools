@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Creative-Flow-Mind-Mapping-Tools" alt="License" /></a>
@@ -54,72 +54,72 @@ The global visual collaboration and digital whiteboard software market is valued
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects, infinite canvas engines, and mind-mapping suites, ordered by GitHub star count:
+Curated open-source projects, infinite canvas engines, and mind-mapping suites, ordered by GitHub Stars_Count:
 
-- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
   🎨 *Flagship open-source virtual whiteboard with a natural hand-drawn aesthetic, end-to-end encrypted real-time multiplayer collaboration, custom component libraries, and local-first storage.*
 
-- **[Mermaid.js](https://github.com/mermaid-js/mermaid)** [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers)  
+- **[Mermaid.js](https://github.com/mermaid-js/mermaid)** [![GitHub_Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers)  
   📊 *Industry-standard JavaScript diagramming and mind-mapping engine that renders interactive flowcharts, mind maps, sequence diagrams, and class charts directly from markdown-like text.*
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   📝 *Leading open-source Notion and Miro alternative with full data privacy, modular canvas boards, nested document trees, and flexible brainstorming views.*
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   🚀 *All-in-one open-source knowledge base and hyper-fused whiteboard/document canvas supporting local-first CRDT synchronization, shape grouping, and edgeless mind mapping.*
 
-- **[Draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)  
+- **[Draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers)  
   📐 *Feature-packed, offline-capable desktop diagramming and flowchart suite completely free of third-party trackers, featuring deep mind mapping and architecture palettes.*
 
-- **[Penpot](https://github.com/penpot/penpot)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
+- **[Penpot](https://github.com/penpot/penpot)** [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
   🖌️ *Open-source web-based design and prototyping workspace for cross-functional teams, featuring infinite creative vector boards, flex layouts, and design-to-code flows.*
 
-- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
   ✨ *Modern, high-performance open-source infinite canvas engine and React SDK designed for building collaborative whiteboards, spatial ideation tools, and AI canvases.*
 
-- **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+- **[Logseq](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
   🔗 *Privacy-first, open-source outliner and graph-based personal knowledge management base featuring a built-in infinite visual whiteboard canvas for connected note-taking.*
 
-- **[xyflow (React Flow & Svelte Flow)](https://github.com/xyflow/xyflow)** [![GitHub stars](https://img.shields.io/github/stars/xyflow/xyflow?style=social&color=white)](https://github.com/xyflow/xyflow/stargazers)  
+- **[xyflow (React Flow & Svelte Flow)](https://github.com/xyflow/xyflow)** [![GitHub_Stars](https://img.shields.io/github/stars/xyflow/xyflow?style=social&color=white)](https://github.com/xyflow/xyflow/stargazers)  
   ⚡ *Powerful open-source library for building node-based user interfaces, interactive mind-map canvases, dynamic flowchart builders, and complex visual workflow graphs.*
 
-- **[D2](https://github.com/terrastruct/d2)** [![GitHub stars](https://img.shields.io/github/stars/terrastruct/d2?style=social&color=white)](https://github.com/terrastruct/d2/stargazers)  
+- **[D2](https://github.com/terrastruct/d2)** [![GitHub_Stars](https://img.shields.io/github/stars/terrastruct/d2?style=social&color=white)](https://github.com/terrastruct/d2/stargazers)  
   💡 *Modern, declarative diagramming language and CLI compiler designed for turning text into clear software architecture maps, network graphs, and hierarchy charts.*
 
-- **[Drawnix](https://github.com/plait-board/drawnix)** [![GitHub stars](https://img.shields.io/github/stars/plait-board/drawnix?style=social&color=white)](https://github.com/plait-board/drawnix/stargazers)  
+- **[Drawnix](https://github.com/plait-board/drawnix)** [![GitHub_Stars](https://img.shields.io/github/stars/plait-board/drawnix?style=social&color=white)](https://github.com/plait-board/drawnix/stargazers)  
   ✏️ *All-in-one open-source web whiteboard uniting mind mapping, freehand sketching, and structural flowcharts in a unified, modern interface.*
 
-- **[PlantUML](https://github.com/plantuml/plantuml)** [![GitHub stars](https://img.shields.io/github/stars/plantuml/plantuml?style=social&color=white)](https://github.com/plantuml/plantuml/stargazers)  
+- **[PlantUML](https://github.com/plantuml/plantuml)** [![GitHub_Stars](https://img.shields.io/github/stars/plantuml/plantuml?style=social&color=white)](https://github.com/plantuml/plantuml/stargazers)  
   📜 *Classic open-source diagramming engine generating mind maps, work breakdown structures (WBS), sequence diagrams, and architecture maps from human-readable plain text.*
 
-- **[Markmap](https://github.com/markmap/markmap)** [![GitHub stars](https://img.shields.io/github/stars/markmap/markmap?style=social&color=white)](https://github.com/markmap/markmap/stargazers)  
+- **[Markmap](https://github.com/markmap/markmap)** [![GitHub_Stars](https://img.shields.io/github/stars/markmap/markmap?style=social&color=white)](https://github.com/markmap/markmap/stargazers)  
   📄 *Fast open-source visualization tool that compiles standard Markdown headings and lists directly into interactive, zoomable SVG radial mind maps.*
 
-- **[Simple-Mind-Map](https://github.com/wanglin2/mind-map)** [![GitHub stars](https://img.shields.io/github/stars/wanglin2/mind-map?style=social&color=white)](https://github.com/wanglin2/mind-map/stargazers)  
+- **[Simple-Mind-Map](https://github.com/wanglin2/mind-map)** [![GitHub_Stars](https://img.shields.io/github/stars/wanglin2/mind-map?style=social&color=white)](https://github.com/wanglin2/mind-map/stargazers)  
   🌈 *Comprehensive open-source web mind-mapping engine and web application supporting fishbone structures, timeline layouts, rich formatting, and XMind import/export.*
 
-- **[diagrams.net (Web Core)](https://github.com/jgraph/drawio)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)  
+- **[diagrams.net (Web Core)](https://github.com/jgraph/drawio)** [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)  
   🌐 *The web client source behind diagrams.net, delivering self-hostable collaborative whiteboards and extensive diagramming libraries.*
 
-- **[Lorien](https://github.com/mbrlabs/Lorien)** [![GitHub stars](https://img.shields.io/github/stars/mbrlabs/Lorien?style=social&color=white)](https://github.com/mbrlabs/Lorien/stargazers)  
+- **[Lorien](https://github.com/mbrlabs/Lorien)** [![GitHub_Stars](https://img.shields.io/github/stars/mbrlabs/Lorien?style=social&color=white)](https://github.com/mbrlabs/Lorien/stargazers)  
   🖌️ *Ultra-fast, infinite-canvas vector sketching and brainstorming notebook built with the Godot Engine for frictionless ideation.*
 
-- **[Freeplane](https://github.com/freeplane/freeplane)** [![GitHub stars](https://img.shields.io/github/stars/freeplane/freeplane?style=social&color=white)](https://github.com/freeplane/freeplane/stargazers)  
+- **[Freeplane](https://github.com/freeplane/freeplane)** [![GitHub_Stars](https://img.shields.io/github/stars/freeplane/freeplane?style=social&color=white)](https://github.com/freeplane/freeplane/stargazers)  
   🌲 *Battle-tested open-source desktop mind-mapping application with hierarchical node folding, LaTeX math formulas, metadata tagging, and Groovy scripting.*
 
-- **[My-Mind](https://github.com/ondras/my-mind)** [![GitHub stars](https://img.shields.io/github/stars/ondras/my-mind?style=social&color=white)](https://github.com/ondras/my-mind/stargazers)  
+- **[My-Mind](https://github.com/ondras/my-mind)** [![GitHub_Stars](https://img.shields.io/github/stars/ondras/my-mind?style=social&color=white)](https://github.com/ondras/my-mind/stargazers)  
   🧠 *Lightweight, zero-dependency browser-based mind-mapping tool supporting keyboard-first navigation and seamless cloud storage integrations.*
 
-- **[Mind-Elixir](https://github.com/SSShooter/mind-elixir-core)** [![GitHub stars](https://img.shields.io/github/stars/SSShooter/mind-elixir-core?style=social&color=white)](https://github.com/SSShooter/mind-elixir-core/stargazers)  
+- **[Mind-Elixir](https://github.com/SSShooter/mind-elixir-core)** [![GitHub_Stars](https://img.shields.io/github/stars/SSShooter/mind-elixir-core?style=social&color=white)](https://github.com/SSShooter/mind-elixir-core/stargazers)  
   🧩 *Framework-agnostic JavaScript mind-map core library featuring node drag-and-drop reparenting, multi-node summaries, keyboard shortcuts, and PNG/JSON exports.*
 
-- **[zachlatta/freeflow](https://github.com/zachlatta/freeflow)** [![GitHub stars](https://img.shields.io/github/stars/zachlatta/freeflow?style=social&color=white)](https://github.com/zachlatta/freeflow/stargazers)  
+- **[zachlatta/freeflow](https://github.com/zachlatta/freeflow)** [![GitHub_Stars](https://img.shields.io/github/stars/zachlatta/freeflow?style=social&color=white)](https://github.com/zachlatta/freeflow/stargazers)  
   🌊 *Frictionless spatial brainstorming canvas designed for fluid thinking, rapid thought capture, and dynamic relational connections.*
 
-- **[Minder](https://github.com/phase1geo/Minder)** [![GitHub stars](https://img.shields.io/github/stars/phase1geo/Minder?style=social&color=white)](https://github.com/phase1geo/Minder/stargazers)  
+- **[Minder](https://github.com/phase1geo/Minder)** [![GitHub_Stars](https://img.shields.io/github/stars/phase1geo/Minder?style=social&color=white)](https://github.com/phase1geo/Minder/stargazers)  
   🐧 *Sleek native GTK desktop mind-mapping application for Linux featuring animated layouts, contextual task checkboxes, custom themes, and FreeMind/XMind compatibility.*
 
-- **[Heimer](https://github.com/juzzlin/Heimer)** [![GitHub stars](https://img.shields.io/github/stars/juzzlin/Heimer?style=social&color=white)](https://github.com/juzzlin/Heimer/stargazers)  
+- **[Heimer](https://github.com/juzzlin/Heimer)** [![GitHub_Stars](https://img.shields.io/github/stars/juzzlin/Heimer?style=social&color=white)](https://github.com/juzzlin/Heimer/stargazers)  
   💡 *Clean, open-source Qt mind-mapping and concept-modeling tool for quick ideation and clean XML-based file storage.*
 
 ---
@@ -140,7 +140,7 @@ Contributions make the open-source community an inspiring place to learn, create
 4. 🚀 **Push to the Branch** (`git push origin feature/NewAwesomeTool`)
 5. 📬 **Open a Pull Request**
 
-*Please ensure added SaaS entries include specific pricing tiers, free limits, and revenue scale, and open-source entries include valid GitHub repository URLs with star badges.*
+*Please ensure added SaaS entries include specific pricing tiers, free limits, and revenue scale, and open-source entries include valid GitHub repository URLs with Stars_Badges.*
 
 ---
 
